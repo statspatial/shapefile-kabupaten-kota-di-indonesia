@@ -1,0 +1,2 @@
+File kompres dipecah menjadi 6 file agar dapat diupload di github.
+cara ekstrak: download 6 file tersebut, kemudian ekstrak file Kab_Kota SHP.7z.001 
