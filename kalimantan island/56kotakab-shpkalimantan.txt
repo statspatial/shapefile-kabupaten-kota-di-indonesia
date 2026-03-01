@@ -1,0 +1,66 @@
+56 Kabupaten Kota Pulau Kalimantan:
+
+Kalimantan Barat:
+Sambas
+Bengkayang
+Landak
+Mempawah
+Sanggau
+Ketapang
+Sintang
+Kapuas Hulu
+Sekadau
+Melawi
+Kayong Utara
+Kubu Raya
+Kota Pontianak
+Kota Singkawang
+
+Kalimantan Tengah:
+Kotawaringin Barat
+Kotawaringin Timur
+Kapuas
+Barito Selatan
+Barito Utara
+Sukamara
+Lamandau
+Seruyan
+Katingan
+Pulang Pisau
+Gunung Mas
+Barito Timur
+Murung Raya
+Kota Palangka Raya
+
+Kalimantan Selatan:
+Kota Baru
+Banjar
+Barito Kuala
+Tapin
+Hulu Sungai Selatan
+Hulu Sungai Tengah
+Hulu Sungai Utara
+Tabalong
+Tanah Bumbu
+Balangan
+Kota Banjarmasin
+Kota Banjar Baru
+
+Kalimantan Timur:
+Paser
+Kutai Barat
+Kutai Kartanegara
+Kutai Timur
+Berau
+Penajam Paser Utara
+Mahakam Ulu
+Balikpapan
+Samarinda
+Bontang
+
+Kalimantan Utara:
+Malinau
+Bulungan
+Tana Tidung
+Nunukan
+Tarakan
